@@ -1,0 +1,1 @@
+The AI-based plant health monitoring system uses image processing to detect leaf diseases in real time. A microcontroller controls a relay-driven pump for targeted spraying, reducing chemical usage, labor, and improving crop yield through smart, automated precision agriculture.
